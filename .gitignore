@@ -1,7 +1,5 @@
-# Third Party Plugin File (llama.cpp)
-Source/ThirdParty/Llama/Binaries/*
-Source/ThirdParty/Llama/Libraries/*
-Source/ThirdParty/Llama/Includes/*
+# Third Party Plugin File (QR-Code-generator)
+Source/ThirdParty/QR-Code-generator/Includes/*
 
 # Visual Studio 2015 user specific files
 .vs/
