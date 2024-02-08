@@ -3,7 +3,6 @@
 #pragma once
 
 #include "CoreMinimal.h"
-#include ""
 #include "Modules/ModuleManager.h"
 
 class FUQRCodeModule : public IModuleInterface

@@ -1,5 +1,6 @@
-# Third Party Plugin File (QR-Code-generator)
-Source/ThirdParty/QR-Code-generator/Includes/*
+# Source Extern Plugin File (QR-Code-generator)
+Source/UQRCode/qrcodegen.cpp
+Source/UQRCode/qrcodegen.hpp
 
 # Visual Studio 2015 user specific files
 .vs/
