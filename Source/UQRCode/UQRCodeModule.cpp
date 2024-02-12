@@ -13,5 +13,5 @@ void FUQRCodeModule::ShutdownModule()
 }
 
 #undef LOCTEXT_NAMESPACE
-	
+
 IMPLEMENT_MODULE(FUQRCodeModule, UQRCode)
